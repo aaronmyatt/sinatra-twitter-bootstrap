@@ -9,7 +9,6 @@ module Sinatra
         ASSETS = {
           :css => [
             ['bootstrap.min.css', 'a5cee949f15193b2e2f9aa7275051dea69d0eea1'],
-            ['bootstrap-responsive.min.css', '68e924c9fcbee3cb5d47ca6d284fb3eec82dd304'],
           ],
           :png => [
             ['glyphicons-halflings.png', '84f613631b07d4fe22acbab50e551c0fe04bd78b'],
@@ -18,7 +17,6 @@ module Sinatra
           :js => [
             ['jquery.min.js', '8b6babff47b8a9793f37036fd1b1a3ad41d38423'],
             ['bootstrap.min.js', '3e6ab2b64de4239acb763383a591d76a44053293'],
-            ['html5.js', 'c9d8ca77abcd9789b91b4c3263f257e1fc1ee103']
           ],
         }
 
